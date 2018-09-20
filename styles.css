@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+#data {
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    width: 95%;
+}
+
+.song {
+    padding: 12px;
+    border: 1px solid black;
+    width: 30%;
+    min-width: 200px;
+}
+
+.image {
+    border: 1px solid black;
+    width: 100%;
+    height: auto;
+}
