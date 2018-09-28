@@ -21,6 +21,13 @@ const data = [
         music: 'music/BR.mp3'
     },
     {
+        title: "Moonage Daydream",
+        artist: 'David Bowie',
+        genre: 'Classic Rock',
+        image: 'images/daydream.jpg',
+        music: 'music/MD.mp3'
+    },
+    {
         title: "Seven Nation Army",
         artist: 'The White Stripes',
         genre: 'Rock',
@@ -138,5 +145,152 @@ const data = [
         genre: 'Hard Rock',
         image: 'images/highway.jpg',
         music: 'music/HTH.mp3'
+    },
+    {
+        title: "Jump",
+        artist: 'Van Halen',
+        genre: 'Rock',
+        image: 'images/jump.jpg',
+        music: 'music/J.mp3'
+    },
+    {
+        title: "Everybody Wants to Rule the World",
+        artist: 'Tears for Fears',
+        genre: 'Pop',
+        image: 'images/rule_the_world.jpg',
+        music: 'music/EWTRTW.mp3'
+    },
+    {
+        title: "Don't Stop Believin'",
+        artist: 'Journey',
+        genre: 'Rock',
+        image: 'images/dont_stop_believing.jpg',
+        music: 'music/DSB.mp3'
+    },
+    {
+        title: "Under Pressure",
+        artist: 'Queen',
+        genre: 'Rock',
+        image: 'images/pressure.jpg',
+        music: 'music/UP.mp3'
+    },
+    {
+        title: "You Give Love a Bad Name",
+        artist: 'Bon Jovi',
+        genre: 'Rock',
+        image: 'images/heartbroken.jpg',
+        music: 'music/YGLABN.mp3'
+    },
+    {
+        title: "Africa",
+        artist: 'Toto',
+        genre: 'Pop',
+        image: 'images/africa.jpg',
+        music: 'music/A.mp3'
+    },
+    {
+        title: "Space Oddity",
+        artist: 'David Bowie',
+        genre: 'Pop',
+        image: 'images/oddity.jpg',
+        music: 'music/SO.mp3'
+    },
+    {
+        title: "[I Can't Get No] Satisfaction",
+        artist: 'The Rolling Stones',
+        genre: 'Rock',
+        image: 'images/satisfaction.jpg',
+        music: 'music/ICGNS.mp3'
+    },
+    {
+        title: "Back in Black",
+        artist: 'ACDC',
+        genre: 'Hard Rock',
+        image: 'images/black.jpg',
+        music: 'music/BIB.mp3'
+    },
+    {
+        title: "Walk This Way",
+        artist: 'Aerosmith',
+        genre: 'Classic Rock',
+        image: 'images/walk.jpg',
+        music: 'music/WTW.mp3'
+    },
+    {
+        title: "Thunderstruck",
+        artist: 'ACDC',
+        genre: 'Hard Rock',
+        image: 'images/thunder.jpg',
+        music: 'music/TS.mp3'
+    },
+    {
+        title: "Panama",
+        artist: 'Van Halen',
+        genre: 'Rock',
+        image: 'images/jump.jpg',
+        music: 'music/P.mp3'
+    },
+    {
+        title: "Starman",
+        artist: 'David Bowie',
+        genre: 'Pop',
+        image: 'images/starman.jpg',
+        music: 'music/SM.mp3'
+    },
+    {
+        title: "The Boys Are Back in Town",
+        artist: 'Thin Lizzy',
+        genre: 'Classic Rock',
+        image: 'images/cold_one.jpg',
+        music: 'music/TBABIT.mp3'
+    },
+    {
+        title: "Smoke on the Water",
+        artist: 'Deep Purple',
+        genre: 'Rock',
+        image: 'images/smoke_water.jpg',
+        music: 'music/SOTW.mp3'
+    },
+    {
+        title: "Born to be Wild",
+        artist: 'Steppenwolf',
+        genre: 'Rock',
+        image: 'images/wild.jpg',
+        music: 'music/BTBW.mp3'
+    },
+    {
+        title: "Carry on Wayward Son",
+        artist: 'Kansas',
+        genre: 'Rock',
+        image: 'images/carry_on.jpg',
+        music: 'music/COWS.mp3'
+    },
+    {
+        title: "Smells Like Teen Spirit",
+        artist: 'Nirvana',
+        genre: 'Rock',
+        image: 'images/smells.jpg',
+        music: 'music/SLTS.mp3'
+    },
+    {
+        title: "I'm Still Standing",
+        artist: 'Elton John',
+        genre: 'Pop',
+        image: 'images/standing.jpg',
+        music: 'music/ISS.mp3'
+    },
+    {
+        title: "We Didn't Start the Fire",
+        artist: 'Elton John',
+        genre: 'Pop',
+        image: 'images/fire.jpg',
+        music: 'music/WDSTF.mp3'
+    },
+    {
+        title: "Life on Mars",
+        artist: 'David Bowie',
+        genre: 'Pop',
+        image: 'images/life.jpg',
+        music: 'music/LOM.mp3'
     }
 ];

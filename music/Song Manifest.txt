@@ -1,0 +1,43 @@
+AWYWI	 - 	Anyway you want it
+EITS	 - 	Eye in the sky
+BR	 - 	Bohemian Rhapsody
+SNA	 - 	Seven nation army
+HIGA	 - 	Here I go again
+FS	 - 	Fortunate son
+STH	 - 	Stairway to Heaven
+SFTD	 - 	Sypmathy for the Devil
+HOTRS	 - 	House of the Rising Sun
+LOAP	 - 	Livin on a Prayer
+ITN	 - 	In the Navy
+HC	 - 	Hotel California
+HOAF	 - 	Hooked on a Feeling
+SITMWY	 - 	Stuck in the Middle with You
+SCOM	 - 	Sweet Child o Mine
+DSMN	 - 	Don't Stop Me Now
+PC	 - 	Paradise City
+DO	 - 	Dream On
+MTAF	 - 	More Than a Feeling
+HTH	 - 	Highway to Hell
+J	 - 	Jump
+EWTRTW	 - 	Everybody Wants to Rule the World
+DSB	 - 	Don't Stop Believin
+UP	 - 	Under Pressure
+YGLABN	 - 	You Give Love a Bad Name
+A	 - 	Africa
+ICGNS	 - 	I can't get no Satisfaction
+BIB	 - 	Back in Black
+WTW	 - 	Walk this Way
+TS	 - 	Thunderstruck
+P	 - 	Panama
+TBABIT	 - 	The Boys are Back in Town
+SOTW	 - 	Smoke on the Water
+BTBW	 - 	Born to be Wild
+COWS	 - 	Carry on Wayward Son
+SLTS	 - 	Smells Like Teen Spirit
+ISS	 - 	I'm Still Standing
+WDSTF	 - 	We Didn't Start the Fire
+SM	 - 	Starman
+LOM	 - 	Life on Mars
+MD	 - 	Moonage Daydream
+SO	 - 	Space Oddity
+

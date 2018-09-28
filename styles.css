@@ -1,13 +1,19 @@
 body{
+    font-family: 'Fira Sans', sans-serif;
+    background-color: #b5d1ff;
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
     text-align: center;
 }
+
 #data {
     display: flex;
     flex-flow: row;
     flex-wrap: wrap;
     text-align: center;
     justify-content: center;
-    width: 95%;
+    width: 100%;
 }
 
 .song {
@@ -28,4 +34,26 @@ audio {
     align-self: flex-end;
     width: 100%;
     height: auto;
+}
+
+#buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+    position: sticky;
+    top: 0px;
+    background-color: #b5d1ff;
+    padding: 10px;
+    z-index: 100;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: #0049bf;
 }
