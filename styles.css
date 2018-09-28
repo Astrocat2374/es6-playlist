@@ -13,12 +13,19 @@ body{
 .song {
     padding: 12px;
     border: 1px solid black;
-    width: 30%;
+    max-width: 30%;
     min-width: 200px;
 }
 
 .image {
     border: 1px solid black;
+    width: 100%;
+    height: auto;
+}
+
+audio {
+    display: flex;
+    align-self: flex-end;
     width: 100%;
     height: auto;
 }
